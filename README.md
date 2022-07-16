@@ -7,3 +7,5 @@ version
  - postgresSQL 42.3.6
  - thymeleaf 2.7.1
  - lombok 1.18.24
+
+기본 개발환경
